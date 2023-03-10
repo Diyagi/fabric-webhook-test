@@ -17,7 +17,7 @@ services:
       TYPE: "AUTO_CURSEFORGE"
       DISABLE_HEALTHCHECK: true
       CF_SLUG: "all-of-fabric-6"
-      CF_FILE_ID: 4419791
+      CF_FILE_ID: 4431158
       MODRINTH_PROJECTS: "notenoughcrashes:release"
       STOP_SERVER_ANNOUNCE_DELAY: 30
       ONLINE_MODE: true
