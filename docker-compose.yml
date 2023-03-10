@@ -21,7 +21,7 @@ services:
       MODRINTH_PROJECTS: "notenoughcrashes:release"
       STOP_SERVER_ANNOUNCE_DELAY: 30
       ONLINE_MODE: true
-      MOTD: "\\u00A7c                     \\u00A7aArisu"
+      MOTD: "\\u00A7c                     \\u00A7aArisu Kuma"
       ALLOW_FLIGHT: true
       DIFFICULTY: "hard"
       SPAWN_PROTECTION: 0
