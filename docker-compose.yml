@@ -18,7 +18,7 @@ services:
       DISABLE_HEALTHCHECK: true
       CF_SLUG: "all-of-fabric-6"
       CF_FILE_ID: 4431158
-      MODRINTH_PROJECTS: "notenoughcrashes:release"
+      MODRINTH_PROJECTS: "notenoughcrashes,trade-cycling"
       STOP_SERVER_ANNOUNCE_DELAY: 30
       ONLINE_MODE: true
       MOTD: "\\u00A7c                     \\u00A7aArisu Kuma"
